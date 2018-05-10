@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  mpitest.cpp
+c:\users\augu\source\repos\mpitest\mpitest\mpitest.cpp(22): warning C4101: 'req': unreferenced local variable
+  mpitest.vcxproj -> C:\Users\Augu\source\repos\mpitest\Debug\mpitest.exe
